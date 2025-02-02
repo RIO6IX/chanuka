@@ -1,6 +1,6 @@
 # 🌐 Chanuka Isuru Sampath | Cybersecurity Portfolio  
 
-![Portfolio Preview](chanuka/img/home1.png)  
+![Portfolio Preview](./img/home1.png)  
 
 Welcome to my personal **Cybersecurity Portfolio**! 🚀 This website serves as a hub for my **CTF challenges, penetration testing write-ups, and security research**.  
 
