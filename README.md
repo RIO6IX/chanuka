@@ -5,7 +5,7 @@
 Welcome to my personal **Cybersecurity Portfolio**! 🚀 This website serves as a hub for my **CTF challenges, penetration testing write-ups, and security research**.  
 
 ## 🌎 Live Website  
-🔗 **[Visit My Portfolio](https://rio6ix.github.io/chanuka/)** 
+🔗 **[Visit My Portfolio Website](https://rio6ix.github.io/chanuka/)** 
 
 ## 🔍 About  
 I am a **Cybersecurity student, Ethical Hacker, and CTF Creator** passionate about **offensive security, red teaming, and bug bounty hunting**. This portfolio showcases my journey, skills, and contributions to the cybersecurity community.  
