@@ -32,7 +32,7 @@ Stay tuned for updates as I continue adding more CTF challenges and cybersecurit
 
 ## 📌 Get in Touch  
 Feel free to connect with me on:  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/chanuka-isuru-sampath-289358247/?profileId=ACoAAD0ZIIkBxXB_u9gVdyWUaQ8JjtJ6sOLMxWc)  
+🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/chanuka-isuru-sampath-289358247/?profileId=ACoAAD0ZIIkBxXB_u9gVdyWUaQ8JjtJ6sOLMxWc)  
 🐙 **GitHub:** [My GitHub](https://github.com/rio6ix)  
 
 If you have feedback, suggestions, or would like to collaborate, feel free to open an issue or reach out!  
