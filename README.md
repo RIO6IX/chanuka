@@ -1,4 +1,4 @@
-# 🌐 Chanuka Isuru Sampath | Cybersecurity Portfolio  
+# 🌐 Chanuka Isuru Sampath | Cybersecurity Portfolio Website
 
 ![Portfolio Preview](./img/home1.png)  
 
