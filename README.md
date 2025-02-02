@@ -1,1 +1,41 @@
-"# chanuka" 
+# 🌐 Chanuka Isuru Sampath | Cybersecurity Portfolio  
+
+![Portfolio Preview](chanuka/img/home1.png)  
+
+Welcome to my personal **Cybersecurity Portfolio**! 🚀 This website serves as a hub for my **CTF challenges, penetration testing write-ups, and security research**.  
+
+## 🔍 About  
+I am a **Cybersecurity student, Ethical Hacker, and CTF Creator** passionate about **offensive security, red teaming, and bug bounty hunting**. This portfolio showcases my journey, skills, and contributions to the cybersecurity community.  
+
+## 🔹 Features  
+✔ **CTF Challenges** – Web, Reverse Engineering, Forensics, and Binary Exploitation  
+✔ **Bug Bounty & Penetration Testing Write-ups**  
+✔ **Cybersecurity Research & Learning Resources**  
+✔ **Certifications & Professional Growth**  
+
+## 🌎 Live Website  
+🔗 **[Visit My Portfolio](https://rio6ix.github.io/chanuka/)**  
+
+## 🛠 Technologies Used  
+- HTML, CSS, JavaScript  
+- GitHub Pages for hosting  
+- Markdown for documentation  
+
+## 🏆 CTF Challenges  
+I create **Capture The Flag (CTF)** challenges related to:  
+- Web Security  
+- Binary Exploitation  
+- Reverse Engineering  
+- Forensics  
+
+Stay tuned for updates as I continue adding more CTF challenges and cybersecurity content!  
+
+## 📌 Get in Touch  
+Feel free to connect with me on:  
+🔗 **LinkedIn:** [Your LinkedIn Profile](#)  
+🐙 **GitHub:** [My GitHub](https://github.com/rio6ix)  
+
+If you have feedback, suggestions, or would like to collaborate, feel free to open an issue or reach out!  
+
+**Happy Hacking! 🔒💻**  
+
