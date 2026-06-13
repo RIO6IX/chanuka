@@ -789,15 +789,43 @@ ol {
 
 .blog__item.latest__item {
   margin-bottom: 0;
+  height: 360px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
 }
 .blog__item.latest__item:hover {
   border: 1px solid #222222 !important;
   background: url(../img/blog/blog-1.jpg);
   background-size: cover;
 }
+.blog__item.latest__item a {
+  margin-top: auto;
+}
+.blog__item.latest__item h4 {
+  display: -webkit-box;
+  min-height: 93px;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+.blog__item.latest__item p {
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+
+.latest__slider.owl-carousel .owl-stage {
+  display: flex;
+}
+.latest__slider.owl-carousel .owl-item {
+  display: flex;
+}
 
 .latest__slider.owl-carousel .owl-item .col-lg-4 {
   max-width: 100%;
+  display: flex;
 }
 .latest__slider.owl-carousel .owl-dots {
   text-align: center;
@@ -1331,6 +1359,12 @@ ol {
 .pagination__option .arrow__pagination span {
   opacity: 0.5;
 }
+.pagination__option .arrow__pagination.disabled {
+  color: #777777;
+  cursor: default;
+  opacity: 0.5;
+  pointer-events: none;
+}
 .pagination__option .number__pagination {
   font-size: 18px;
   color: #ffffff;
@@ -1341,6 +1375,11 @@ ol {
   text-align: center;
   display: inline-block;
   margin-right: 6px;
+}
+.pagination__option .number__pagination.active,
+.pagination__option .number__pagination:hover {
+  background: #00bfe7;
+  color: #ffffff;
 }
 
 /*---------------------
@@ -1725,6 +1764,11 @@ ol {
   overflow: hidden;
 }
 
+.contact__form__section {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
 .contact__map {
   height: 450px;
 }
@@ -1780,6 +1824,39 @@ ol {
 }
 .contact__form form textarea:focus {
   border-color: #e1e1e1;
+}
+
+.contact__google__form {
+  max-width: 760px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.contact__google__form iframe {
+  width: 100%;
+  min-height: 620px;
+  height: 70vh;
+  max-height: 720px;
+  background: #ffffff;
+  border: 0;
+  display: block;
+  margin-bottom: 30px;
+}
+
+.contact__form__link {
+  display: inline-block;
+}
+
+@media only screen and (max-width: 767px) {
+  .contact__form__section {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .contact__google__form iframe {
+    min-height: 580px;
+    height: 68vh;
+  }
 }
 
 /*--------------------------------- Responsive Media Quaries -----------------------------*/
